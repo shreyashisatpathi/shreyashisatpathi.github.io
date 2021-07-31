@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I’m Shreyashi, a SAP ABAP HR Developer
 
-You can use the [editor on GitHub](https://github.com/shreyashisatpathi/shreyashisatpathi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://www.linkedin.com/in/shreyashis/">
+  <img align="left" alt="Shreyashi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br />
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have over 5 years of experience in SAP tech stack– adept in end-to-end development of products, requirement analysis, designing, coding, testing and implementation. She is an excellent developer, having analytical, logical, problem-solving abilities, she holds an engineering degree in Computer Science.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
 
-- Bulleted
-- List
+-	Programming Languages – SAP ABAP HR, JavaScript, HTML, XML
+-	Skills – Reports, ALV, Adobe forms, Idoc, Personal Administration, Time Management, OM, Payroll Reports, Enhancements, BADI, HR Reports, LDB, Infotypes
+-	ERP – SAP R/3, ECC5.0, ECC 6.0
+-	Databases – Oracle, SQL Server
+-	Practices – Agile, Waterfall, Clean Code, Unit Testing
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shreyashisatpathi/shreyashisatpathi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
